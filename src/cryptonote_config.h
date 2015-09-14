@@ -22,7 +22,7 @@ const uint64_t CRYPTONOTE_BLOCK_FUTURE_TIME_LIMIT            = 60 * 60 * 2;
 const size_t   BLOCKCHAIN_TIMESTAMP_CHECK_WINDOW             = 60;
 
 //TODO Specify total number of available coins
-//TODO ((uint64_t)(-1)) equals to 18446744073709551616 coins
+//TODO ((uint64_t)(-1)) equals to 52000000 coins
 //TODO or you can define number explicitly UINT64_C(52000000)
 const uint64_t MONEY_SUPPLY                                  = ;
 const unsigned EMISSION_SPEED_FACTOR                         = 21;
