@@ -101,8 +101,8 @@ const unsigned THREAD_STACK_SIZE                             = 5 * 1024 * 1024;
 
 //TODO Add here your network seed nodes
 const std::initializer_list<const char*> SEED_NODES = {
-  //"160.153.90.201:17236",
-  //"160.153.90.201:18236",
+  //"5.152.181.116:17236",
+  //"5.152.181.116:18236",
 };
 
 struct CheckpointData {
